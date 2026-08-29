@@ -27,11 +27,11 @@ Here's my [Resume/CV](https://github.com/nishigm/Portfolio/blob/main/Nishigandha
 
 ## Featured Projects
 
-* **[Amazon Prime Video Channels (India) — Strategy & Teardown](https://github.com/nishigm/prime-video-channels-strategy)**  
+* **[Amazon Prime Video Channels (India) — Strategy & Teardown](https://github.com/nishigm/Amazon-Prime-Video-Channels-Case-Study)**  
   * Sized a ₹29.2 Cr incremental annual revenue opportunity, targeted a 94% paywall drop-off, and designed product interventions for a 2x conversion lift with a 0.1% churn guardrail.
   * **Keywords:** `Product Growth` `Market Sizing` `Funnel Telemetry` `OTT Monetization`
 
-* **[AI & The Global Job Market — SQL & Power BI Pipeline](https://github.com/nishigm/ai-job-market-analytics)**  
+* **[AI & The Global Job Market — SQL & Power BI Pipeline](https://github.com/nishigm/iHateAI)**  
   * End-to-end exploratory analysis examining automation risk indices, industry displacement trends, and emerging skill curves using complex SQL querying and interactive DAX dashboards.
   * **Keywords:** `SQL Data Pipeline` `Power BI Dashboard` `DAX` `EDA`
 
