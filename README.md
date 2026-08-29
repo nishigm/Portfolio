@@ -7,6 +7,8 @@
 ## About Me
 I sit at the intersection of **structured business problem-solving, product growth, and hands-on data analytics**. Whether it's diagnosing operational bottlenecks on a manufacturing shop floor, deconstructing user drop-off funnels in OTT platforms, or conducting mathematical research on cryptographic randomness, I enjoy taking ambiguous problems and turning them into clear, actionable frameworks.
 
+Here's my [Resume/CV](https://github.com/nishigm/Portfolio/blob/main/NishigandhaMittal_NSUT_Resume.pdf)
+
 * **Academic Background:** Senior at NSUT pursuing ECE with a minor in AI & Machine Learning.
 * **Industry Experience:** Previously worked in operational data analytics at **Avery Dennison Pvt. Ltd., India** (driving a 33% efficiency lift across plant operations) and technical compliance testing at **Faraday EMT Labs**.
 * **Research:** Published author in **Springer Nature (SN Computer Science)** on non-linear dynamics, chaotic logistic maps, and pseudo-random number generator (PRNG) architectures.
