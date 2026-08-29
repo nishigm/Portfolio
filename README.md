@@ -27,7 +27,7 @@ Here's my [Resume/CV](https://github.com/nishigm/Portfolio/blob/main/Nishigandha
 
 ## Featured Projects
 
-* **[Amazon Prime Video Channels (India) — Strategy & Teardown](https://github.com/nishigm/Amazon-Prime-Video-Channels-Case-Study)**  
+* **[Amazon Prime Video Channels (India) — Strategy & Teardown](https://github.com/Adeclak/Amazon-Prime-Video-Channels-Monetization-Strategy)**  
   * Sized a ₹29.2 Cr incremental annual revenue opportunity, targeted a 94% paywall drop-off, and designed product interventions for a 2x conversion lift with a 0.1% churn guardrail.
   * **Keywords:** `Product Growth` `Market Sizing` `Funnel Telemetry` `OTT Monetization`
 
