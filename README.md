@@ -13,7 +13,7 @@ Here's my [Resume/CV](https://github.com/nishigm/Portfolio/blob/main/Nishigandha
 * **Industry Experience:** Previously worked in operational data analytics at **Avery Dennison Pvt. Ltd., India** (driving a 33% efficiency lift across plant operations) and technical compliance testing at **Faraday EMT Labs**.
 * **Research:** Published author in **Springer Nature (SN Computer Science)** on non-linear dynamics, chaotic logistic maps, and pseudo-random number generator (PRNG) architectures.
 * **Leadership Experience:** Served as **President of Crosslinks NSUT** (leading 60+ team members and media reaching 10k+) and **Director of The Debating Society of NSUT** (co-heading flagship university events like NSUT MUN with 2,000+ delegates).
-* **Beyond Work:** 10k runner training toward marathon distances, oil painter, swimmer, lawn tennis player and enthusiast.
+* **Beyond Work:**  oil painter, swimmer, lawn tennis player and enthusiast.
 
 ---
 
